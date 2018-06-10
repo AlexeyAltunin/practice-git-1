@@ -1,3 +1,5 @@
 My first line in project
 Paris is the capital of France
 >>>>>>> parent of 35e8d50... Capitals added
+1. add text to be staged
+2. add text to be not staged
